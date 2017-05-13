@@ -1,2 +1,5 @@
 # bash-profile
-## bashrc and profile are dot files -- make sure to pre-pend if copying into home location of bash profile scripts (@ user root, for example)
+
+## Currently a mirror of profile on home linux for user /home/daniel
+
+### all profile files are dot files (which has been removed here) -- pre-pend if using 
